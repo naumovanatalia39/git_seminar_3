@@ -15,4 +15,6 @@
 
 > git checkout master - вернуться к актуальному состоянию и продолжить работу
 
->
+> git diff - увидеть разницу между текущим файлом  закоммиченным файлом
+
+![](https://img.freepik.com/premium-vector/the-end-hand-written-lettering-on-black_116399-28.jpg?w=740)

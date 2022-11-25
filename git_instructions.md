@@ -35,3 +35,9 @@
 > * **git commit -am"message"** - добавление файлов в отслеживание и создание коммита;
 
 git branch <branch_name> - создание ветки с названием branch_name
+
+
+
+
+
+git checkout <branch_name> - переход к другой ветке;

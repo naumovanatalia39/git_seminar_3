@@ -34,10 +34,10 @@
 
 > * **git commit -am"message"** - добавление файлов в отслеживание и создание коммита;
 
-git branch <branch_name> - создание ветки с названием branch_name
+*это 2 команды "git add .> + <git commit -m"message"> в одной. Важно, работает только после применения хотя бы одного раза "git add ."*;
 
+> * **git branch <branch_name>** - создание ветки с названием branch_name;
 
+> * **git checkout -b <branch_name> - создание ветки и переход к ней;
 
-
-
-git checkout <branch_name> - переход к другой ветке;
+> * **git branch -d <branch_name>** - удалить ветку с именем branch_name;

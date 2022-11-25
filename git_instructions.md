@@ -9,6 +9,8 @@
 
 >* **git commit** -m "message" - создание коммита;
 
+***Важно писать понятные коммиты***
+
 >* **git log** - вывод на экран истории всех коммитов с их хеш кодами;
 
 >* **git checkout** - переход от одного коммита к другому;
@@ -25,3 +27,6 @@
 ![https://learn.microsoft.com/ru-ru/contribute/markdown-reference]()
 
 ![](https://img.freepik.com/premium-vector/the-end-hand-written-lettering-on-black_116399-28.jpg?w=740)
+
+# Основные команды веток GIT
+

@@ -38,10 +38,13 @@
 
 > * **git branch <branch_name>** - создание ветки с названием branch_name;
 
-> * **git checkout -b <branch_name> - создание ветки и переход к ней;
+> * **git checkout -b <branch_name>** - создание ветки и переход к ней;
 
 > * **git branch -d <branch_name>** - удалить ветку с именем branch_name;
 
 > * **clear** - очистка текста в терминале (для удобства);
+
 >* **git log --graph** - вывод на экран истории всех коммитов со всех веток с их хеш-кодами в древовидной форме;
+
+>* **git merge <branch_name>** - слияние веток;
 
